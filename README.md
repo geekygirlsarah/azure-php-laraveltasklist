@@ -1,21 +1,25 @@
----
-services: app-service\web,app-service
-platforms: php
-author: cephalin
----
+# azure-php-laraveltasklist
 
-# MEAN.js sample for Azure App Service
+This is my second project in my attempt to learn cloud skills.
 
-This is a sample application that you can use to follow along with the tutorial at 
-[Build a PHP and MySQL web app in Azure](https://docs.microsoft.com/azure/app-service-web/app-service-web-tutorial-php-mysql). 
+This project takes the laravel task list app, using PHP and MySQL, and deploys to Azure while connecting the MySQL instance to the web app instance.
 
-This sample application is taken from the official [Laravel sample task list application](https://github.com/laravel/quickstart-basic) and modified minimally to make it work with Azure App Service. For instructions on how to use Laravel, see the official repository. 
+## Quick Deploy Steps
 
-## License
+I'll type these up soon.
 
-See [LICENSE](LICENSE).
+## Demo
+http://geekygirlsarah-tasklist.azurewebsites.net/
+
+## Original Instructions and Repo
+Directions: https://docs.microsoft.com/en-us/azure/app-service-web/app-service-web-tutorial-php-mysql
+Repo: https://github.com/Azure-Samples/laravel-tasks
 
 ## Contributing
 
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
-  
+
+## Contact
+
+Find me on Twitter at [@geekygirlsarah](https://twitter.com/geekygirlsarah). Please feel free to reach out!
+
