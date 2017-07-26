@@ -2,7 +2,7 @@
 
 This is my second project in my attempt to learn cloud skills.
 
-Stuff and things...
+This project takes the laravel task list app, using PHP and MySQL, and deploys to Azure while connecting the MySQL instance to the web app instance.
 
 ## Quick Deploy Steps
 
